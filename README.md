@@ -20,7 +20,7 @@
 ## 💻 Skills:
 **Languages & Tools:**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![AzureSQLDatabase](https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-%23F2C811.svg?style=for-the-badge&logo=Power%20BI&logoColor=black) ![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) ![English B2](https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=google-translate&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![AzureSQLDatabase](https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-%23F2C811.svg?style=for-the-badge&logo=Power%20BI&logoColor=black) ![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) ![English B2](https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=google-translate&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)  
 
 **Specializations:**
 - 📊 Data Analysis and Visualization (Excel, Power BI, Tableau, Python)
@@ -30,8 +30,9 @@
 - 🌐 Cloud-based Data Solutions (Azure, SQL Database)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=avelad31&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=avelad31&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Elizabeth02fh&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth02fh&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 ---
