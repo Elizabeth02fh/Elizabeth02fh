@@ -6,7 +6,7 @@
       </strong>
     </h1>
 </div>
-## 🌐 Socials:
+🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elizabeth-flores-huaman%C3%AD-46031b238/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Elizabeth02fh@gmail.com)
