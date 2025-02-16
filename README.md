@@ -7,7 +7,13 @@
     </h1>
 </div>
 
-Soy titulada en Ingeniería de Sistemas y cuento con amplio conocimiento en análisis de datos 📊, bases de datos relacionales, no relacionales y en los procesos de Extracción, Transformación y Carga de datos (ETL). Tengo experiencia en el sector educativo, de ventas, así como en la implementación de KPIs, métricas y cálculos en Power BI (DAX) y Excel ⚙️. Además, poseo habilidades en narración de datos, visualización e interpretación de información. He trabajado en el análisis del mercado estadounidense, evaluando ventas, tendencias, riesgos y oportunidades 💻. También he participado activamente en datatones de ciencia de datos 🚀, fortaleciendo mis capacidades analíticas y de resolución de problemas 💡. Busco desarrollarme en el mundo de los datos 📚, aportando mi pensamiento creativo, analítico, habilidades para la resolución de problemas, trabajo en equipo, adaptabilidad, curiosidad, empatía, atención al detalle, comunicación efectiva y autonomía.✨
+👩‍💻 **Ingeniera de Sistemas** con experiencia en **análisis de datos** 📊, bases de datos relacionales y no relacionales 🗄️, y procesos **ETL** 🔄. Especialista en **Power BI (DAX)** 📈, **Excel** y narración de datos.  
+
+📌 He trabajado en el análisis del **mercado estadounidense**, evaluando **ventas, tendencias y riesgos** 💼. También he participado en **datatones** 🚀, aplicando **Machine Learning** 🤖 para resolver problemas y optimizar la toma de decisiones.  
+
+💡 Me **apasiona el mundo de los datos** 📚 y estoy en **constante aprendizaje** 📖 para mantenerme a la **vanguardia de las herramientas de ciencia de datos** ⚙️.  
+
+🤝 Disfruto del **trabajo en equipo**, aportando **creatividad**, **pensamiento analítico** y **habilidades para la resolución de problemas** 🧩.✨
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianvelad)
