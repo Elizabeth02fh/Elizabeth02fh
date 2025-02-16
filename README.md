@@ -2,7 +2,7 @@
 <div align="center">
     <h1>
       <strong>
-          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=3F8114&vCenter=true&width=625&height=55&lines=Hi+there%2C+I'm+Elizabeth%2C+a+Data+Analytics." alt="Typing SVG" />
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=3F8114&vCenter=true&width=625&height=55&lines=Hola%2C+Soy+Elizabeth%2C+Analista+de+Datos+jr+e+Ingeniera+de+datos+jr." alt="Typing SVG" />
       </strong>
     </h1>
 </div>
