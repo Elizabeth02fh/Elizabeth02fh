@@ -22,8 +22,6 @@
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
   </a>
 
-</
-
 
 👩‍💻 **Ingeniera de Sistemas** con experiencia en **análisis de datos** 📊, bases de datos relacionales y no relacionales 🗄️, y procesos **ETL** 🔄. Especialista en **Power BI (DAX)** 📈, **Excel** y narración de datos (storytelling). 📌 He trabajado en el análisis del **mercado estadounidense**, evaluando **ventas, tendencias y riesgos** 💼. 
 
