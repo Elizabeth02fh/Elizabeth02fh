@@ -16,8 +16,7 @@
 
 </div>
 
-
-👩‍💻 **Ingeniera de Sistemas** con experiencia en **análisis de datos** 📊, bases de datos relacionales y no relacionales 🗄️, y procesos **ETL** 🔄. Especialista en **Power BI (DAX)** 📈, **Excel** y narración de datos (storytelling). 📌 He trabajado en el análisis del **mercado estadounidense**, evaluando **ventas, tendencias y riesgos** 💼. 
+👩‍💻 **Ingeniera de Sistemas** con formación en **Ciencia de Datos** a través de un **bootcamp en Henry**. Cuento con experiencia en **análisis de datos**, bases de datos **relacionales y no relacionales** 🗄️, y procesos **ETL** 🔄. Me especializo en **Power BI (DAX)** 📈, **Excel** y **narración de datos (storytelling)**. 📌 He trabajado en el análisis del **mercado estadounidense**, evaluando **ventas, tendencias y riesgos** 💼.  
 
 💡 Me **apasiona el mundo de los datos** 📚 estoy en **constante aprendizaje** 📖 y me gusta ser partícipe de eventos de datos y de **datatones** 🚀.🤝 Disfruto del **trabajo en equipo**, aportando **creatividad**, **pensamiento analítico, crítico** y **habilidades para la resolución de problemas** 🧩.✨
 
