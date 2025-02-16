@@ -6,11 +6,8 @@
       </strong>
     </h1>
 </div>
-### Hi there 👋
-¡Hola! Soy Adrian Vela Diaz , un apasionado de la **analítica de datos**, **IA** y las **automatizaciones** . 🚀 Transformo datos en soluciones innovadoras que optimizan procesos y generan valor estratégico. 💡 Con experiencia en **Machine Learning**, **Python**, **BI** y **bases de datos**, mi meta es crear herramientas que impulsen decisiones basadas en datos sólidos y eficientes. 📊⚙️
 
-📚 Siempre estoy explorando nuevas tecnologías en **IA, Cloud Computing y Estadística,** siempre buscando nuevas tecnologías y métodos para potenciar la analítica y la eficiencia operativa. Si estás listo para explorar cómo la **Analítica de datos y las Automatizaciones** pueden llevar tus proyectos al siguiente nivel, ¡conversemos! 💻✨
-
+¡Hola!, Soy titulada en Ingeniería de Sistemas y cuento con amplio conocimiento en análisis de datos 📊, bases de datos relacionales, no relacionales y en los procesos de Extracción, Transformación y Carga de datos (ETL). Tengo experiencia en el sector educativo, de ventas, así como en la implementación de KPIs, métricas y cálculos en Power BI (DAX) y Excel ⚙️. Además, poseo habilidades en narración de datos, visualización e interpretación de información. He trabajado en el análisis del mercado estadounidense, evaluando ventas, tendencias, riesgos y oportunidades 💻. También he participado activamente en datatones de ciencia de datos 🚀, fortaleciendo mis capacidades analíticas y de resolución de problemas 💡. Busco desarrollarme en el mundo de los datos 📚, aportando mi pensamiento creativo, analítico, habilidades para la resolución de problemas, trabajo en equipo, adaptabilidad, curiosidad, empatía, atención al detalle, comunicación efectiva y autonomía.✨
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adrianvelad)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianvelad@gmail.com)
