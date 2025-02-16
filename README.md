@@ -1,3 +1,11 @@
+<!-- Header -->
+<div align="center">
+    <h1>
+      <strong>
+          <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=3F8114&vCenter=true&width=625&height=55&lines=Hi+there%2C+I'm+Jorge%2C+a+Software+Developer." alt="Typing SVG" />
+      </strong>
+    </h1>
+</div>
 ### Hi there 👋
 ¡Hola! Soy Adrian Vela Diaz , un apasionado de la **analítica de datos**, **IA** y las **automatizaciones** . 🚀 Transformo datos en soluciones innovadoras que optimizan procesos y generan valor estratégico. 💡 Con experiencia en **Machine Learning**, **Python**, **BI** y **bases de datos**, mi meta es crear herramientas que impulsen decisiones basadas en datos sólidos y eficientes. 📊⚙️
 
