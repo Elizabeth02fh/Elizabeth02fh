@@ -13,9 +13,9 @@
 <a href="https://www.youtube.com/@elizabeth0214" style="margin-right: 10px;">
         <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" style="height: 25px;" />
 
-👩‍💻 **Ingeniera de Sistemas** con experiencia en **análisis de datos** 📊, bases de datos relacionales y no relacionales 🗄️, y procesos **ETL** 🔄. Especialista en **Power BI (DAX)** 📈, **Excel** y narración de datos. 📌 He trabajado en el análisis del **mercado estadounidense**, evaluando **ventas, tendencias y riesgos** 💼. También he participado en **datatones** 🚀.
+👩‍💻 **Ingeniera de Sistemas** con experiencia en **análisis de datos** 📊, bases de datos relacionales y no relacionales 🗄️, y procesos **ETL** 🔄. Especialista en **Power BI (DAX)** 📈, **Excel** y narración de datos. 📌 He trabajado en el análisis del **mercado estadounidense**, evaluando **ventas, tendencias y riesgos** 💼. 
 
-💡 Me **apasiona el mundo de los datos** 📚 y estoy en **constante aprendizaje** 📖. 🤝 Disfruto del **trabajo en equipo**, aportando **creatividad**, **pensamiento analítico** y **habilidades para la resolución de problemas** 🧩.✨
+💡 Me **apasiona el mundo de los datos** 📚 estoy en **constante aprendizaje** 📖 y me gusta ser partícipe en las **datatones** 🚀.🤝 Disfruto del **trabajo en equipo**, aportando **creatividad**, **pensamiento analítico** y **habilidades para la resolución de problemas** 🧩.✨
 
 ## 💻 Skills:
 **Languages & Tools:**
