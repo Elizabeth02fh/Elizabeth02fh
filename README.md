@@ -50,13 +50,16 @@
 - 🔄 Automation and Process Optimization (Power Automate, Power Apps, Macros)
 - 🌐 Cloud-based Data Solutions (Azure, SQL Database)
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Elizabeth02fh&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth02fh&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Elizabeth02fh&theme=synthwave&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Elizabeth02fh&theme=synthwave&hide_border=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Elizabeth02fh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=Elizabeth02fh&label=Profile%20Views&color=6&icon=5)](https://visitcount.itsvg.in)
+## 👀 Profile Views
+![](https://visitcount.itsvg.in/api?id=Elizabeth02fh&label=Profile%20Views&color=6&icon=5)
+
 
 
