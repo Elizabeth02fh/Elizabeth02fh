@@ -23,7 +23,32 @@
 ## 💻 Skills:
 **Languages & Tools:**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) ![AzureSQLDatabase](https://img.shields.io/badge/Azure%20SQL%20Database-0078D4?style=for-the-badge&logo=microsoft%20azure&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![DAX](https://img.shields.io/badge/DAX-%23F2C811.svg?style=for-the-badge&logo=Power%20BI&logoColor=black) ![Power BI](https://img.shields.io/badge/Power_BI-%23F2C811.svg?style=for-the-badge&logo=Power%20BI&logoColor=white) ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=Microsoft-Excel&logoColor=white) ![English B2](https://img.shields.io/badge/English-B2-blue?style=for-the-badge&logo=google-translate&logoColor=white) ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)  
+## 👩🏻‍💻 Ingeniera de Sistemas  
+
+📊 Ingeniera de Sistemas con experiencia en **análisis de datos, modelado y automatización de procesos**.  
+
+💡 Con conocimientos en:
+- 📈 Análisis de Datos  
+- 🏗️ Ingeniería de Datos  
+- 🤖 Ciencia de Datos  
+- ☁️ BI & Cloud  
+
+🚀 He participado en proyectos end-to-end desarrollando soluciones con:
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Power Apps](https://img.shields.io/badge/Power_Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white)
+![Power Automate](https://img.shields.io/badge/Power_Automate-0066FF?style=for-the-badge&logo=powerautomate&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+🔎 Me caracterizo por:
+- 🧠 Pensamiento analítico  
+- 🎯 Atención al detalle  
+- ✅ Enfoque en calidad de datos  
+- 🤝 Trabajo colaborativo en entornos ágiles  
+- 🔄 Actitud proactiva y orientada a mejora continua  
+
 
 **Specializations:**
 - 📊 Data Analysis and Visualization (Excel, Power BI, Tableau, Python)
