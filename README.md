@@ -16,13 +16,6 @@
 
 </div>
 
-👩‍💻 **Ingeniera de Sistemas** con formación en **Ciencia de Datos** a través de un **bootcamp en Henry**. Busco desarrollarme en **Ingeniería de datos**, apliqué en diversos proyectos, modelados de datos, **ETL** 🔄, pipelines y visualización de datos en Power Bi . Me especializo en **Python** 📈, **PySpark** y **Azure, AWS y GCP**. 📌 He trabajado en el análisis del **mercado estadounidense**, evaluando **ventas, tendencias y riesgos** 💼.  
-
-💡 Me **apasiona el mundo de los datos** 📚 estoy en **constante aprendizaje** 📖 y me gusta ser partícipe de eventos de datos y de **datatones** 🚀.🤝 Disfruto del **trabajo en equipo**, aportando **creatividad**, **pensamiento analítico, crítico** y **habilidades para la resolución de problemas** 🧩.✨
-
-## 💻 Skills:
-**Languages & Tools:**
-
 ## 👩🏻‍💻 Ingeniera de Sistemas  
 
 📊 Ingeniera de Sistemas con experiencia en **análisis de datos, modelado y automatización de procesos**.  
